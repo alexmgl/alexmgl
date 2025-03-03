@@ -51,7 +51,7 @@ Data Scientist and Risk Quantitative Developer with expertise in Python, portfol
 
 ---
 
-### Private Projects
+### Private Projects (Power and Gas)
 
 - 1️⃣**Deep Hedge:** A suite of hedge optimisation tools developed as part of my Master's thesis.  
 - 2️⃣ **Power Scalers:** Tools for shaping block power contracts to hourly or half hourly granularity based on (live or historic) market data and actual demand.
