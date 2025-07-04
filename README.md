@@ -1,19 +1,13 @@
 
 ## About Me
 
-Data Scientist and Developer (Quantitative Risk) with expertise in Python, portfolio optimisation, and risk modeling. I also have a solid working knowledge of C++, Rust, and JavaScript. My background spans quantitative modeling, machine learning, and web development using Flask. In my current role as Lead Data Scientist within the Strategy & Planning Directorate at the Emirates Water and Electicity Company (EWEC) in Abu Dhabi, my primary responsibilities are DevOps, model development, power and water forecasting, and planning.
-
-- 🔭 **Adacemic Focus:** I’m in the process of completing my Master's degree in Artificial Intelligence at the University of Bath, focusing on how Deep Reinforcement Learning can enhance Hedge Optimisation in Gas Storage (derivative) portfolios. Due to complete June 2025.
-- 🌱 **Learning:** I’m working on enhancing my proficiency in C++ and Rust to further optimise performance-critical code. I'm also building WebApps (hosted on Azure) designed to support stakeholders in asset procurement and land optimisation.
-- 💬 **Ask Me About:** Data analysis, machine learning, quantitative finance, and linear programming.
-
----
+Data Scientist and Developer (Quantitative Risk) with expertise in Python, portfolio optimisation, and risk modeling. 
 
 ## Technical Skills
 
 ### Languages
 
-[![Python Expert](https://img.shields.io/badge/Python-Expert-blue)](https://www.python.org/)  [![C++ Working Knowledge](https://img.shields.io/badge/C++-Working%20Knowledge-yellow)](https://isocpp.org/)  [![Rust Working Knowledge](https://img.shields.io/badge/Rust-Working%20Knowledge-yellow)](https://www.rust-lang.org/)
+[![Python Expert](https://img.shields.io/badge/Python-Expert-blue)](https://www.python.org/)  [![C++ Working Knowledge](https://img.shields.io/badge/C++-Working%20Knowledge-yellow)](https://isocpp.org/)
 
 ### Data Science
 
