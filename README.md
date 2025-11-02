@@ -1,7 +1,7 @@
 
 ## About Me
 
-Data Scientist and Developer (Quantitative Risk) with expertise in Python, portfolio optimisation, and risk modeling. 
+Data Scientist and Python Developer portfolio optimisation, and risk modeling. 
 
 ## Technical Skills
 
