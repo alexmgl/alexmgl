@@ -1,7 +1,7 @@
 
 ## About Me
 
-Data Scientist and Python Developer portfolio optimisation, and risk modeling. 
+Data Scientist and Python Developer with experience in portfolio optimisation and risk modeling. 
 
 ## Technical Skills
 
