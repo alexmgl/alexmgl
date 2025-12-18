@@ -19,18 +19,18 @@ Data Scientist and Python Developer with experience in portfolio optimisation an
 [![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-4E73DF.svg?style=flat)](#)
 [![Risk Management](https://img.shields.io/badge/Risk_Management-F9C74F.svg?style=flat)](#)
 [![Energy Trading](https://img.shields.io/badge/Energy_Trading-90BE6D.svg?style=flat)](#)
-[![Portfolio Optimization](https://img.shields.io/badge/Portfolio_Optimization-F3722C.svg?style=flat)](#)
+[![Portfolio Optimisation](https://img.shields.io/badge/Portfolio_Optimization-F3722C.svg?style=flat)](#)
 
 
 ---
 
 ### Public Projects
 
-- 1️⃣ [**Nordpool Client**](https://github.com/alexmgl/nordpool_client): A Python client for fetching, processing, and analyzing Nordpool data.  
+- 1️⃣ [**Nordpool Client**](https://github.com/alexmgl/nordpool_client): A Python client for fetching, processing, and analysing Nordpool data.  
 - 2️⃣ [**euro_gas_power**](https://github.com/alexmgl/euro_gas_power): A lightweight tool for retrieving fundamental European gas and power data from various APIs, including National Gas and Gas Infrastructure Europe (GIE).  
 - 3️⃣ [**Enigma**](https://github.com/alexmgl/enigma): A Python implementation of the German Enigma Machine from World War II, complete with simulations of rotors, plugboards, and reflectors, plus code-breaking routines.  
 - 4️⃣ [**DLX Solver**](https://github.com/alexmgl/dlx_solver): An implementation of Knuth's Dancing Links (DLX) algorithm to efficiently solve 9x9 Sudoku puzzles by transforming them into exact cover problems.  
-- 5️⃣ [**Six Nations Solver**](https://github.com/alexmgl/six_nations_solver): A mixed-integer linear programming (MILP) tool designed to optimize team selection for the fantasy Six Nations Championship.
+- 5️⃣ [**Six Nations Solver**](https://github.com/alexmgl/six_nations_solver): A mixed-integer linear programming (MILP) tool designed to optimise team selection for the fantasy Six Nations Championship.
 
 
 ---
