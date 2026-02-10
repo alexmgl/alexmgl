@@ -7,7 +7,7 @@ Data Scientist and Python Developer with experience in demand forecasting, portf
 
 ### Languages
 
-[![Python Expert](https://img.shields.io/badge/Python-Expert-blue)](https://www.python.org/)  [![Rust](https://img.shields.io/badge/C++-Working%20Knowledge-yellow)](https://isocpp.org/)
+[![Python Expert](https://img.shields.io/badge/Python-Expert-blue)](https://www.python.org/) [![Rust](https://img.shields.io/badge/Rust-Working%20Knowledge-yellow)](https://www.rust-lang.org/)
 
 ### Data Science
 
