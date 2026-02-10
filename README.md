@@ -1,13 +1,13 @@
 
 ## About Me
 
-Data Scientist and Python Developer with experience in portfolio optimisation and risk modeling. 
+Data Scientist and Python Developer with experience in demand forecasting, portfolio optimisation and risk modeling. 
 
 ## Technical Skills
 
 ### Languages
 
-[![Python Expert](https://img.shields.io/badge/Python-Expert-blue)](https://www.python.org/)  [![C++ Working Knowledge](https://img.shields.io/badge/C++-Working%20Knowledge-yellow)](https://isocpp.org/)
+[![Python Expert](https://img.shields.io/badge/Python-Expert-blue)](https://www.python.org/)  [![Rust](https://img.shields.io/badge/C++-Working%20Knowledge-yellow)](https://isocpp.org/)
 
 ### Data Science
 
